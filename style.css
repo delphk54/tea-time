@@ -15,6 +15,7 @@ section{
     width: 70%;
     margin: auto;
     margin-bottom: 10px;
+
     
 }
 h2{
@@ -30,9 +31,17 @@ h2{
 .clair{
     height: 3vh;
     background-color: grey;
+    display: flex;
+    justify-content: space-between;
 }
 .blanc{
     height:3vh;
+    display: flex;
+    justify-content: space-between;
+    display: flex;
+}
+.prix{
+  
 }
 footer{
     background-color: springgreen;
