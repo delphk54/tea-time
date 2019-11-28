@@ -1,0 +1,42 @@
+header{
+    background-color: aqua;
+    height: 10vh;
+}
+figure{
+    background-color: slategrey;
+    height: 10vh;
+}
+main{
+    background-color: rosybrown;
+    height: 10vh;
+}
+section{
+    border: solid 2px;
+    width: 70%;
+    margin: auto;
+    margin-bottom: 10px;
+    
+}
+h2{
+    width: 50%;
+    margin: auto;
+    text-align: center;
+    color: rgb(247, 180, 35);
+}
+.entete{
+    background-color: rgb(83, 82, 78);
+
+}
+.clair{
+    height: 3vh;
+    background-color: grey;
+}
+.blanc{
+    height:3vh;
+}
+footer{
+    background-color: springgreen;
+    height: 10vh;
+    position: fixed;
+    bottom: 0%;
+}
