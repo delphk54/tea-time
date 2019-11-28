@@ -14,9 +14,7 @@ section{
     border: solid 2px;
     width: 70%;
     margin: auto;
-    margin-bottom: 10px;
-
-    
+    margin-bottom: 10px; 
 }
 h2{
     width: 50%;
@@ -26,6 +24,10 @@ h2{
 }
 .entete{
     background-color: rgb(83, 82, 78);
+    display: flex;
+    justify-content: space-around;
+    width: 50%;
+    margin-left: auto;
 
 }
 .clair{
@@ -33,6 +35,7 @@ h2{
     background-color: grey;
     display: flex;
     justify-content: space-between;
+    
 }
 .blanc{
     height:3vh;
@@ -41,7 +44,10 @@ h2{
     display: flex;
 }
 .prix{
-  
+    justify-content: space-around;
+    display: flex;
+    width: 50%;
+   
 }
 footer{
     background-color: springgreen;
