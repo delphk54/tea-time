@@ -26,8 +26,8 @@ h2{
     background-color: rgb(83, 82, 78);
     display: flex;
     justify-content: space-around;
-    width: 50%;
-    margin-left: auto;
+    width: 47%;
+    margin-left: 53%;
 
 }
 .clair{
@@ -46,7 +46,7 @@ h2{
 .prix{
     justify-content: space-around;
     display: flex;
-    width: 50%;
+    width: 49%;
    
 }
 footer{
